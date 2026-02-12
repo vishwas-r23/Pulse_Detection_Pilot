@@ -144,5 +144,4 @@ def main(video_file):
     magnify_video(frames, fps, bpm_text)
 
 if __name__ == "__main__":
-    # Ensure 'sample.mp4' exists or change the filename
     main("sample.mp4")
